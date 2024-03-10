@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956852221273",
+    "project_id": "todoapp-be862",
+    "storage_bucket": "todoapp-be862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956852221273:android:f05b788b3401a74b840848",
+        "android_client_info": {
+          "package_name": "com.example.learnflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFe2sHFoC_Q2iv-5x6G0zjCwbqGkr0oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
